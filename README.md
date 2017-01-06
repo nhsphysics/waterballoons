@@ -1,2 +1,2 @@
 # waterballoons
-Simulations of the water balloon launch
+Simulations for our water balloon launch project
